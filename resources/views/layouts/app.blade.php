@@ -1,18 +1,33 @@
+
 <!DOCTYPE html>
-<html dir="ltr" lang="en">
+<html lang="zxx">
 <head>
-    @include('includes.header')
+	@include('includes.header')
     @yield('header')
 </head>
-<body class="maxw1600 m0a">
-<div class="wrapper">
-	<!-- <div class="preloader"></div> -->
-    @include('includes.navbar')
-	@yield('content')
-    @include('includes.footer')
-<a class="scrollToHome text-thm3" href="#"><i class="flaticon-arrows"></i></a>
-</div>
-@include('includes.script')
-</body>
 
+<body class="th-15 homepage-4">
+    <!-- Wrapper -->
+    <div id="wrapper">
+        <!-- START SECTION HEADINGS -->
+        <!-- Header Container
+        ================================================== -->
+        @include('includes.navbar')
+        <div class="clearfix"></div>
+        <!-- Header Container / End -->
+
+        @yield('content')
+        @include('includes.footer')
+        <a data-scroll href="#wrapper" class="go-up"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
+        <!-- END FOOTER -->
+
+        <div id="preloader">
+            <div id="status">
+                <div class="status-mes"></div>
+            </div>
+        </div>
+		@include('includes.script')
+    </div>
+</body>
 </html>
+

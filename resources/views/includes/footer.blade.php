@@ -95,95 +95,124 @@
     </div>
 </footer>
  -->
-
-	<!-- Our Footer -->
-	<section class="footer_one home3">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-sm-6 col-md-6 col-lg col-xl">
-					<div class="footer_about_widget home3">
-						<h4>About Site</h4>
-						<p>We’re reimagining how you buy, sell and rent. It’s now easier to get into a place you love. So let’s do this, together.</p>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-6 col-lg col-xl">
-					<div class="footer_qlink_widget home3">
-						<h4>Quick Links</h4>
-						<ul class="list-unstyled">
-							<li><a href="#">About Us</a></li>
-							<li><a href="#">Terms & Conditions</a></li>
-							<li><a href="#">User’s Guide</a></li>
-							<li><a href="#">Support Center</a></li>
-							<li><a href="#">Press Info</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-6 col-lg col-xl">
-					<div class="footer_contact_widget home3">
-						<h4>Contact Us</h4>
-						<ul class="list-unstyled">
-							<li><a href="#"><span class="__cf_email__" data-cfemail="f79e999198b7919e99939f98828492d994989a">[email&#160;protected]</span></a></li>
-							<li><a href="#">Collins Street West, Victoria</a></li>
-							<li><a href="#">8007, Australia.</a></li>
-							<li><a href="#">+1 246-345-0699</a></li>
-							<li><a href="#">+1 246-345-0695</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-6 col-lg col-xl">
-					<div class="footer_social_widget home3">
-						<h4>Follow us</h4>
-						<ul class="mb30">
-							<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
-							<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
-							<li class="list-inline-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
-							<li class="list-inline-item"><a href="#"><i class="fa fa-google"></i></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-6 col-lg col-xl">
-					<div class="footer_social_widget home3">
-						<h4>Subscribe</h4>
-						<form class="footer_mailchimp_form home3">
-						 	<div class="form-row align-items-center">
-							    <div class="col-auto">
-							    	<input type="email" class="form-control mb-2" id="inlineFormInput" placeholder="Your email">
-							    </div>
-							    <div class="col-auto">
-							    	<button type="submit" class="btn btn-primary mb-2"><i class="fa fa-angle-right"></i></button>
-							    </div>
-						  	</div>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<!-- Our Footer Bottom Area -->
-	<section class="footer_middle_area home3 pt30 pb30">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-6 col-xl-6">
-					<div class="footer_menu_widget home3">
-						<ul>
-							<li class="list-inline-item"><a href="#">Home</a></li>
-							<li class="list-inline-item"><a href="#">Listing</a></li>
-							<li class="list-inline-item"><a href="#">Property</a></li>
-							<li class="list-inline-item"><a href="#">Pages</a></li>
-							<li class="list-inline-item"><a href="#">Blog</a></li>
-							<li class="list-inline-item"><a href="#">Contact</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-6 col-xl-6">
-					<div class="copyright-widget home3 text-right">
-						<p>© {{date('Y')}} {{setting('site.title')}}. Made by <a href="https://byteprojects.in">Byteprojects</a>.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-    
+<!-- START FOOTER -->
+<footer class="first-footer rec-pro">
+            <div class="top-footer">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6">
+                            <div class="netabout">
+                                <a href="index.html" class="logo">
+                                    <img src="images/logo-footer.svg" alt="netcom">
+                                </a>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum incidunt architecto soluta laboriosam, perspiciatis, aspernatur officiis esse.</p>
+                            </div>
+                            <div class="contactus">
+                                <ul>
+                                    <li>
+                                        <div class="info">
+                                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                            <p class="in-p">95 South Park Avenue, USA</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="info">
+                                            <i class="fa fa-phone" aria-hidden="true"></i>
+                                            <p class="in-p">+456 875 369 208</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="info">
+                                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                                            <p class="in-p ti">support@findhouses.com</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="navigation">
+                                <h3>Navigation</h3>
+                                <div class="nav-footer">
+                                    <ul>
+                                        <li><a href="index.html">Home One</a></li>
+                                        <li><a href="properties-right-sidebar.html">Properties Right</a></li>
+                                        <li><a href="properties-full-list.html">Properties List</a></li>
+                                        <li><a href="properties-details.html">Property Details</a></li>
+                                        <li class="no-mgb"><a href="agents-listing-grid.html">Agents Listing</a></li>
+                                    </ul>
+                                    <ul class="nav-right">
+                                        <li><a href="agent-details.html">Agents Details</a></li>
+                                        <li><a href="about.html">About Us</a></li>
+                                        <li><a href="blog.html">Blog Default</a></li>
+                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li class="no-mgb"><a href="contact-us.html">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="widget">
+                                <h3>Twitter Feeds</h3>
+                                <div class="twitter-widget contuct">
+                                    <div class="twitter-area">
+                                        <div class="single-item">
+                                            <div class="icon-holder">
+                                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                                            </div>
+                                            <div class="text">
+                                                <h5><a href="#">@findhouses</a> all share them with me baby said inspet.</h5>
+                                                <h4>about 5 days ago</h4>
+                                            </div>
+                                        </div>
+                                        <div class="single-item">
+                                            <div class="icon-holder">
+                                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                                            </div>
+                                            <div class="text">
+                                                <h5><a href="#">@findhouses</a> all share them with me baby said inspet.</h5>
+                                                <h4>about 5 days ago</h4>
+                                            </div>
+                                        </div>
+                                        <div class="single-item">
+                                            <div class="icon-holder">
+                                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                                            </div>
+                                            <div class="text">
+                                                <h5><a href="#">@findhouses</a> all share them with me baby said inspet.</h5>
+                                                <h4>about 5 days ago</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="newsletters">
+                                <h3>Newsletters</h3>
+                                <p>Sign Up for Our Newsletter to get Latest Updates and Offers. Subscribe to receive news in your inbox.</p>
+                            </div>
+                            <form class="bloq-email mailchimp form-inline" method="post">
+                                <label for="subscribeEmail" class="error"></label>
+                                <div class="email">
+                                    <input type="email" id="subscribeEmail" name="EMAIL" placeholder="Enter Your Email">
+                                    <input type="submit" value="Subscribe">
+                                    <p class="subscription-success"></p>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="second-footer rec-pro">
+                <div class="container-fluid sd-f">
+                    <p>2021 © Copyright - All Rights Reserved.</p>
+                    <ul class="netsocials">
+                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
