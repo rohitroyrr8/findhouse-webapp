@@ -102,7 +102,7 @@
 <header id="header-container" class="header head-tr">
             <!-- Header -->
             <div id="header" class="head-tr bottom">
-                <div class="container container-header">
+                <div class="container">
                     <!-- Left Side Content -->
                     <div class="left-side">
                         <!-- Logo -->
