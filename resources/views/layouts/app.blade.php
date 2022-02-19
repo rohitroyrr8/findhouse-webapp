@@ -1,20 +1,18 @@
-</html>
 <!DOCTYPE html>
-<html lang="en">
+<html dir="ltr" lang="en">
 <head>
     @include('includes.header')
-    
     @yield('header')
 </head>
-<body>
-    <div class="page-wrapper">
-        @include('includes.navbar')
-        @yield('content')
-
-        @include('includes.footer')
-    </div>
-
-    <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon flaticon-up-arrow-angle"></span></div>
-    @include('includes.script')
+<body class="maxw1600 m0a">
+<div class="wrapper">
+	<!-- <div class="preloader"></div> -->
+    @include('includes.navbar')
+	@yield('content')
+    @include('includes.footer')
+<a class="scrollToHome text-thm3" href="#"><i class="flaticon-arrows"></i></a>
+</div>
+@include('includes.script')
 </body>
+
 </html>

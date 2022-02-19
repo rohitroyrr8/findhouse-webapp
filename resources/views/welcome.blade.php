@@ -35,299 +35,1252 @@
         
     </style>
 @endsection
-@section('content')
-<section class="banner-section banner-one">
-<div class="banner-carousel owl-theme owl-carousel">
-	<div class="slide-item">
-		<div class="image-layer" style=""></div>
-		<div class="">
-			<div class="content-box">
-				<div class="content clearfix">
-					<div class="inner">
-					    <img src="./images/background/banner1.jpg" >
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="slide-item">
-		<div class="image-layer" style=""></div>
-		<div class="">
-			<div class="content-box">
-				<div class="content clearfix">
-				    <img src="./images/background/banner2.jpeg">
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="slide-item">
-		<div class="image-layer" style=""></div>
-		<div class="">
-			<div class="content-box">
-				<div class="content clearfix">
-				    <img src="./images/background/banner3.jpg">
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-</section>
-<section class="welcome-section">
-<div class="auto-container">
-    <div class="sec-title with-separator centered">
-			<h2>Who We Are</h2>
-			<div class="separator"><span class="cir c-1"></span><span class="cir c-2"></span><span class="cir c-3"></span></div>
-	</div>
-	<div class="row">
-	    <div class="col-md-6">
-	           <div>
-    		    Netatop is a specialist political advertising network, digital agency and consultancy with over two decades of experience in political management. Founded by political campaign veterans, our leadership team has extensive experience working with leading progressive organizations in the political technology space at all levels..
-    		</div><br>
-    		<div>
-	    We’re a diverse team of smart, driven and talented marketers helping political parties and elected officials connect with voters and stay ahead of the race. We pioneer the best integration of data and technology to persuade audiences and deliver wins for progressive candidates with the most effective and affordable digital marketing campaigns in politics. 
-	</div><br>
-		<div>
-	    Our goal at Netatop is to help our clients navigate and create change. The company designs and develops a campaign post an extensive studies and surveys of the constituency at ground level.
-Depending on the client’s requirement we can produce all kinds of print, video and digital communications. Our services include political election research, live broadcasting, website and mobile application development, social media marketing and grassroot messaging, vote bank analysis through surveys and feedback. 
 
-	</div>
-	    </div>
-	    <div class="col-md-6">
-	        <img src="https://www.indianpac.com/wp-content/uploads/2019/03/AP19_01_01-1.jpg">
-	    </div>
-	</div>
-</div>
-</section>
-<section class="services-section">
-            <div class="image-left">
-                <div class="image-layer" style="background-image: url(https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2015/07/28/491991.jpg?itok=uS4s6Wox);"></div>
-            </div>
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="featured-service-block col-xl-4 col-lg-12 col-md-12">
-                        <div class="inner-box">
-                            <figure class="image-box">
-                                <a href="#"><img styke="height: 415px" src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2015/07/28/491991.jpg?itok=uS4s6Wox" alt=""></a>
-                            </figure>
-                            <div class="lower-box">
-                                <h3><a href="./services">Explore Our Other Services</a></h3>
-                                <div class="more-link"><a href="./services">Learn More</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column col-xl-8 col-lg-12 col-md-12">
-                        <div class="col-inner">
-                            <div class="row clearfix">
-                                <div class="featured-block-two col-lg-6 col-md-6 col-sm-12">
-                                    <div class="inner-box">
-                                        <div class="content-box">
-                                            <div class="icon-box"><span class="icon flaticon-chat"></span></div>
-                                            <div class="content">
-                                                <h4><a href="./">Social Media Management</a></h4>
-                                                <div class="text">Blinded by desire, that they cannot foresee belongs which through shrinking.</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="featured-block-two col-lg-6 col-md-6 col-sm-12">
-                                    <div class="inner-box">
-                                        <div class="content-box">
-                                            <div class="icon-box"><span class="icon flaticon-museum"></span></div>
-                                            <div class="content">
-                                                <h4><a href="./">Election War Room</a></h4>
-                                                <div class="text">Foresee the pain and trouble that are bound to ensue; and equal blame belongs.</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="featured-block-two col-lg-6 col-md-6 col-sm-12">
-                                    <div class="inner-box">
-                                        <div class="content-box">
-                                            <div class="icon-box"><span class="icon flaticon-support"></span></div>
-                                            <div class="content">
-                                                <h4><a href="./">Election Survey</a></h4>
-                                                <div class="text">Trouble that are bound to ensue and equal to those city work who fail their duty.</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="featured-block-two col-lg-6 col-md-6 col-sm-12">
-                                    <div class="inner-box">
-                                        <div class="content-box">
-                                            <div class="icon-box"><span class="icon flaticon-bar-chart-2"></span></div>
-                                            <div class="content">
-                                                <h4><a href="./">Live Broadcasting</a></h4>
-                                                <div class="text">Our power of choice untrammelled and when nothing prevents what like best. </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-		<section class="about-section">
-<div class="image-layer" ></div>
-<div class="pattern-layer" style="background-image: url(images/background/pattern-1.png);"></div>
-<div class="auto-container">
-	<div class="content-box">
-		<div class="content">
-			<div class="sec-title light">
-				<h2>We are the <br>“Political Management Firm”</h2>
+@section('content')
+<!-- Home Design -->
+<section class="home-three bg-img3">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8">
+					<div class="home3_home_content">
+						<h1>Your Property, Our Priority.</h1>
+						<h4>From as low as $10 per day with limited time offer discounts</h4>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="home3_home_content">
+						<a class="popup_video_btn popup-iframe popup-youtube" href="https://www.youtube.com/watch?v=R7xbhKIiw4Y"><i class="flaticon-play"></i></a>
+					</div>
+				</div>
 			</div>
-			<div class="upper-text clearfix"><span class="big-letter">N</span>etatop has a professional &  skilled team to boost up your image & reputation. Our team provides a high- level election survey that can change election result.</div>
-			<!--<div class="text">Netatop has a professional &  skilled team to boost up your image & reputation. Our team provides a high- level election survey that can change election result.</div>-->
-			<!--<div class="signature"><img src="images/resource/signature.png" alt=""></div>-->
-			<!--<div class="info">-->
-			<!--	<div class="name">Brendon Garrey</div>-->
-			<!--	<div class="designation">London city mayor</div>-->
-			<!--</div>-->
-		</div>
-		<div class="quote-box">
-			<div class="round-point">+</div>
-			<div class="inner">
-				<div class="icon-one"><span class="flaticon-left-quote"></span></div>
-				<div class="icon-two"><span class="flaticon-left-quote"></span></div>
-				<div class="text">Reshaping Participatory Democracy.</div>
-			</div>
-		</div>
-	</div>
-</div>
-</section>
-<section class="team-section">
-	<div class="auto-container">
-		<div class="sec-title with-separator centered">
-			<h2>Meet Our Clients</h2>
-			<div class="separator"><span class="cir c-1"></span><span class="cir c-2"></span><span class="cir c-3"></span></div>
-		</div>
-		<div class="team-carousel owl-theme owl-carousel owl-loaded owl-drag">
-			<div class="owl-stage-outer">
-			    <div class="owl-stage" style="transform: translate3d(-2047px, 0px, 0px); transition: all 0.5s ease 0s; width: 3510px;">
-    			    <div class="owl-item" style="width: 292.5px;">
-    			        <div class="team-block">
-            				<div class="inner-box">
-            					<div class="image-box">
-            						<figure class="image"><img src="https://www.searchpng.com/wp-content/uploads/2019/01/Bharatiya-Janata-Party-Logo-PNG.png" alt=""></figure>
-            					</div>
-            				</div>
-    			        </div>
-    		        </div>
-        			<div class="owl-item" style="width: 292.5px;">
-        		        <div class="team-block">
-            				<div class="inner-box">
-            					<div class="image-box">
-            						<figure class="image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7nQIwRO6TmDIV2E8nELqqbzZ5zvZVDR0Yuw&usqp=CAU" alt=""></figure>
-            					</div>
-            				</div>
-        			    </div>
-        		    </div>
-        		    <div class="owl-item" style="width: 292.5px;">
-        		        <div class="team-block">
-            				<div class="inner-box">
-            					<div class="image-box">
-            						<figure class="image"><img src="https://iconape.com/wp-content/png_logo_vector/aap-aam-aadami-party-logo.png" alt=""></figure>
-            					</div>
-            				</div>
-        			    </div>
-        		    </div>
-        		    <div class="owl-item" style="width: 292.5px;">
-        		        <div class="team-block">
-            				<div class="inner-box">
-            					<div class="image-box">
-            						<figure class="image" ><img src="https://www.jagranimages.com/images/newimg/18022021/18_02_2021-ljp_21382611.jpg" alt=""></figure>
-            					</div>
-            				</div>
-        			    </div>
-        		    </div>
-        		    <div class="owl-item" style="width: 292.5px;">
-        		        <div class="team-block">
-            				<div class="inner-box">
-            					<div class="image-box">
-            						<figure class="image" ><img src="https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2016-08/30/full/1472555473-3624.jpg&width=1200" alt=""></figure>
-            					</div>
-            				</div>
-        			    </div>
-        		    </div>
-        		    <div class="owl-item" style="width: 292.5px;">
-        		        <div class="team-block">
-            				<div class="inner-box">
-            					<div class="image-box">
-            						<figure class="image" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Elephant_Bahujan_Samaj_Party.svg/1200px-Elephant_Bahujan_Samaj_Party.svg.png" alt=""></figure>
-            					</div>
-            				</div>
-        			    </div>
-        		    </div>
-		        </div>
-	        </div>
-        </div>
-	</div>
-</section>
-<section class="get-info-section">
-	<div class="auto-container">
-		<div class="sec-title with-separator centered">
-			<h2>For change. For impact. For making a difference.<br> Get in touch with our team!</h2>
-			<div class="separator"><span class="cir c-1"></span><span class="cir c-2"></span><span class="cir c-3"></span></div>
-		</div>
-		<div class="row clearfix">
-			<div class="left-col col-lg-6 col-md-12 col-sm-12">
-				<div class="inner">
-					<div class="accordion-box">
-						<!--Block-->
-						<div class="accordion block current">
-							<div class="acc-btn">Top Election Management Company In India?
-								<div class="icon flaticon-cross"></div>
-							</div>
-							<div class="acc-content" style="display: none;">
-								<div class="content">
-									<div class="text">Netatop is a Top Election Management Company In India. We are working with Political leaders and parties to make election management easier. We help the leaders to win elections through their services.</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="home_adv_srch_opt home3">
+						<ul class="nav nav-pills" id="pills-tab" role="tablist">
+							<li class="nav-item">
+								<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Buy</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Rent</a>
+							</li>
+						</ul>
+						<div class="tab-content home1_adsrchfrm" id="pills-tabContent">
+							<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+								<div class="home1-advnc-search home3">
+									<ul class="h1ads_1st_list mb0">
+										<li class="list-inline-item">
+										    <div class="form-group">
+										    	<input type="text" class="form-control" id="exampleInputName1" placeholder="Enter keyword...">
+										    </div>
+										</li>
+										<li class="list-inline-item">
+											<div class="search_option_two">
+												<div class="candidate_revew_select">
+													<select class="selectpicker w100 show-tick">
+														<option>Property Type</option>
+														<option>Apartment</option>
+														<option>Bungalow</option>
+														<option>Condo</option>
+														<option>House</option>
+														<option>Land</option>
+														<option>Single Family</option>
+													</select>
+												</div>
+											</div>
+										</li>
+										<li class="list-inline-item">
+										    <div class="form-group">
+										    	<input type="text" class="form-control" id="exampleInputEmail" placeholder="Location">
+										    	<label for="exampleInputEmail"><span class="flaticon-maps-and-flags"></span></label>
+										    </div>
+										</li>
+										<li class="list-inline-item">
+											<div class="small_dropdown2 home3">
+											    <div id="prncgs" class="btn dd_btn">
+											    	<span>Price</span>
+											    	<label for="exampleInputEmail2"><span class="fa fa-angle-down"></span></label>
+											    </div>
+											  	<div class="dd_content2">
+												    <div class="pricing_acontent">
+												    	<span id="slider-range-value1"></span>
+														<span id="slider-range-value2"></span>
+													    <div id="slider"></div>
+														<!-- <input type="text" class="amount" placeholder="$52,239"> 
+														<input type="text" class="amount2" placeholder="$985,14">
+														<div class="slider-range"></div> -->
+												    </div>
+											  	</div>
+											</div>
+										</li>
+										<li class="custome_fields_520 list-inline-item">
+											<div class="navbered">
+											  	<div class="mega-dropdown home3">
+												    <span id="show_advbtn" class="dropbtn">Advanced <i class="flaticon-more pl10 flr-520"></i></span>
+												    <div class="dropdown-content">
+												      	<div class="row p15">
+												      		<div class="col-lg-12">
+												      			<h4 class="text-thm3">Amenities</h4>
+												      		</div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck1">
+																			<label class="custom-control-label" for="customCheck1">Air Conditioning</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck2">
+																			<label class="custom-control-label" for="customCheck2">Lawn</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck3">
+																			<label class="custom-control-label" for="customCheck3">Swimming Pool</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck4">
+																			<label class="custom-control-label" for="customCheck4">Barbeque</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck5">
+																			<label class="custom-control-label" for="customCheck5">Microwave</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck6">
+																			<label class="custom-control-label" for="customCheck6">TV Cable</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck7">
+																			<label class="custom-control-label" for="customCheck7">Dryer</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck8">
+																			<label class="custom-control-label" for="customCheck8">Outdoor Shower</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck9">
+																			<label class="custom-control-label" for="customCheck9">Washer</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck10">
+																			<label class="custom-control-label" for="customCheck10">Gym</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck11">
+																			<label class="custom-control-label" for="customCheck11">Refrigerator</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck12">
+																			<label class="custom-control-label" for="customCheck12">WiFi</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck13">
+																			<label class="custom-control-label" for="customCheck13">Laundry</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck14">
+																			<label class="custom-control-label" for="customCheck14">Sauna</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck15">
+																			<label class="custom-control-label" for="customCheck15">Window Coverings</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+												      	</div>
+												      	<div class="row p15 pt0-xsd">
+												      		<div class="col-lg-11 col-xl-10">
+												      			<ul class="apeartment_area_list mb0">
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Bathrooms</option>
+																				<option>1</option>
+																				<option>2</option>
+																				<option>3</option>
+																				<option>4</option>
+																				<option>5</option>
+																				<option>6</option>
+																				<option>7</option>
+																				<option>8</option>
+																			</select>
+																		</div>
+												      				</li>
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Bedrooms</option>
+																				<option>1</option>
+																				<option>2</option>
+																				<option>3</option>
+																				<option>4</option>
+																				<option>5</option>
+																				<option>6</option>
+																				<option>7</option>
+																				<option>8</option>
+																			</select>
+																		</div>
+												      				</li>
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Year built</option>
+																				<option>2013</option>
+																				<option>2014</option>
+																				<option>2015</option>
+																				<option>2016</option>
+																				<option>2017</option>
+																				<option>2018</option>
+																				<option>2019</option>
+																				<option>2020</option>
+																			</select>
+																		</div>
+												      				</li>
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Built-up Area</option>
+																				<option>Adana</option>
+																				<option>Ankara</option>
+																				<option>Antalya</option>
+																				<option>Bursa</option>
+																				<option>Bodrum</option>
+																				<option>Gaziantep</option>
+																				<option>İstanbul</option>
+																				<option>İzmir</option>
+																				<option>Konya</option>
+																			</select>
+																		</div>
+												      				</li>
+												      			</ul>
+												      		</div>
+												      		<div class="col-lg-1 col-xl-2">
+												      			<div class="mega_dropdown_content_closer">
+													      			<h5 class="text-thm text-right mt15"><span id="hide_advbtn" class="curp">Hide</span></h5>
+												      			</div>
+												      		</div>
+												      	</div>
+												    </div>
+												</div>
+											</div>
+										</li>
+										<li class="list-inline-item">
+											<div class="search_option_button">
+											    <button type="submit" class="btn btn-thm3">Search</button>
+											</div>
+										</li>
+									</ul>
 								</div>
 							</div>
-						</div>
-						<!--Block-->
-						<div class="accordion block">
-							<div class="acc-btn">When to Start Your Election Management Service Campaign For Upcoming elections?
-								<div class="icon flaticon-cross"></div>
-							</div>
-							<div class="acc-content" style="display: none;">
-								<div class="content">
-									<div class="text">We all know that the Vidhan Sabha election phase is going to start soon and before that all the political parties and leaders are going to start their election campaign. Therefore, you can start your election management service campaign without wasting all your time.</div>
+							<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+								<div class="home1-advnc-search home3">
+									<ul class="h1ads_1st_list mb0">
+										<li class="list-inline-item">
+										    <div class="form-group">
+										    	<input type="text" class="form-control" id="exampleInputName2" placeholder="Enter keyword...">
+										    </div>
+										</li>
+										<li class="list-inline-item">
+											<div class="search_option_two">
+												<div class="candidate_revew_select">
+													<select class="selectpicker w100 show-tick">
+														<option>Property Type</option>
+														<option>Apartment</option>
+														<option>Bungalow</option>
+														<option>Condo</option>
+														<option>House</option>
+														<option>Land</option>
+														<option>Single Family</option>
+													</select>
+												</div>
+											</div>
+										</li>
+										<li class="list-inline-item">
+										    <div class="form-group">
+										    	<input type="text" class="form-control" id="exampleInputEmail3" placeholder="Location">
+										    	<label for="exampleInputEmail3"><span class="flaticon-maps-and-flags"></span></label>
+										    </div>
+										</li>
+										<li class="list-inline-item">
+											<div class="small_dropdown2 home3">
+											    <div id="prncgs2" class="btn dd_btn">
+											    	<span>Price</span>
+											    	<label><span class="fa fa-angle-down"></span></label>
+											    </div>
+											  	<div class="dd_content2">
+												    <div class="pricing_acontent">
+														<input type="text" class="amount" placeholder="$52,239"> 
+														<input type="text" class="amount2" placeholder="$985,14">
+														<div class="slider-range"></div>
+												    </div>
+											  	</div>
+											</div>
+										</li>
+										<li class="custome_fields_520 list-inline-item">
+											<div class="navbered">
+											  	<div class="mega-dropdown home3">
+												    <span id="show_advbtn2" class="dropbtn">Advanced <i class="flaticon-more pl10 flr-520"></i></span>
+												    <div class="dropdown-content">
+												      	<div class="row p15">
+												      		<div class="col-lg-12">
+												      			<h4 class="text-thm3">Amenities</h4>
+												      		</div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck16">
+																			<label class="custom-control-label" for="customCheck16">Air Conditioning</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck17">
+																			<label class="custom-control-label" for="customCheck17">Lawn</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck18">
+																			<label class="custom-control-label" for="customCheck18">Swimming Pool</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck19">
+																			<label class="custom-control-label" for="customCheck19">Barbeque</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck20">
+																			<label class="custom-control-label" for="customCheck20">Microwave</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck21">
+																			<label class="custom-control-label" for="customCheck21">TV Cable</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck22">
+																			<label class="custom-control-label" for="customCheck22">Dryer</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck23">
+																			<label class="custom-control-label" for="customCheck23">Outdoor Shower</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck24">
+																			<label class="custom-control-label" for="customCheck24">Washer</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck25">
+																			<label class="custom-control-label" for="customCheck25">Gym</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck26">
+																			<label class="custom-control-label" for="customCheck26">Refrigerator</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck27">
+																			<label class="custom-control-label" for="customCheck27">WiFi</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+													        <div class="col-xxs-6 col-sm col-lg col-xl">
+												                <ul class="ui_kit_checkbox selectable-list">
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck28">
+																			<label class="custom-control-label" for="customCheck28">Laundry</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck29">
+																			<label class="custom-control-label" for="customCheck29">Sauna</label>
+																		</div>
+												                	</li>
+												                	<li>
+																		<div class="custom-control custom-checkbox">
+																			<input type="checkbox" class="custom-control-input" id="customCheck30">
+																			<label class="custom-control-label" for="customCheck30">Window Coverings</label>
+																		</div>
+												                	</li>
+												                </ul>
+													        </div>
+												      	</div>
+												      	<div class="row p15 pt0-xsd">
+												      		<div class="col-lg-11 col-xl-10">
+												      			<ul class="apeartment_area_list mb0">
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Bathrooms</option>
+																				<option>1</option>
+																				<option>2</option>
+																				<option>3</option>
+																				<option>4</option>
+																				<option>5</option>
+																				<option>6</option>
+																				<option>7</option>
+																				<option>8</option>
+																			</select>
+																		</div>
+												      				</li>
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Bedrooms</option>
+																				<option>1</option>
+																				<option>2</option>
+																				<option>3</option>
+																				<option>4</option>
+																				<option>5</option>
+																				<option>6</option>
+																				<option>7</option>
+																				<option>8</option>
+																			</select>
+																		</div>
+												      				</li>
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Year built</option>
+																				<option>2013</option>
+																				<option>2014</option>
+																				<option>2015</option>
+																				<option>2016</option>
+																				<option>2017</option>
+																				<option>2018</option>
+																				<option>2019</option>
+																				<option>2020</option>
+																			</select>
+																		</div>
+												      				</li>
+												      				<li class="list-inline-item">
+																		<div class="candidate_revew_select">
+																			<select class="selectpicker w100 show-tick">
+																				<option>Built-up Area</option>
+																				<option>Adana</option>
+																				<option>Ankara</option>
+																				<option>Antalya</option>
+																				<option>Bursa</option>
+																				<option>Bodrum</option>
+																				<option>Gaziantep</option>
+																				<option>İstanbul</option>
+																				<option>İzmir</option>
+																				<option>Konya</option>
+																			</select>
+																		</div>
+												      				</li>
+												      			</ul>
+												      		</div>
+												      		<div class="col-lg-1 col-xl-2">
+												      			<div class="mega_dropdown_content_closer">
+													      			<h5 class="text-thm text-right mt15"><span id="hide_advbtn2" class="curp">Hide</span></h5>
+												      			</div>
+												      		</div>
+												      	</div>
+												    </div>
+												</div>
+											</div>
+										</li>
+										<li class="list-inline-item">
+											<div class="search_option_button">
+											    <button type="submit" class="btn btn-thm3">Search</button>
+											</div>
+										</li>
+									</ul>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="right-col col-lg-6 col-md-12 col-sm-12">
-				<div class="inner">
-					<div class="default-form form-box">
-						<form method="GET" action="{{url('/contact/create')}}">
-							<div class="row clearfix">
-								<div class="form-group col-lg-6 col-md-6 col-sm-12">
-									<div class="field-inner">
-										<input type="text" name="name" placeholder="Name" required="" value="">
+		</div>
+	</section>
+
+	<!-- Feature Properties -->
+	<section id="feature-property" class="feature-property mt80 pb50">
+		<div class="container-fluid ovh">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="main-title mb40">
+						<h2>Featured Properties</h2>
+						<p>Handpicked properties by our team. <a class="float-right" href="#">View All <span class="flaticon-next"></span></a></p>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="feature_property_home3_slider">
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp1.jpg" alt="fp1.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item"><a href="#">Featured</a></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
 									</div>
 								</div>
-								<div class="form-group col-lg-6 col-md-6 col-sm-12">
-									<div class="field-inner">
-										<input type="email" name="email" placeholder="Email" required="" value="">
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Apartment</p>
+										<h4>Renovated Apartment</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
 									</div>
-								</div>
-								<div class="form-group col-lg-12 col-md-12 col-sm-12">
-									<div class="field-inner">
-										<textarea name="message" placeholder="Enter your question..." required=""></textarea>
-									</div>
-								</div>
-								<div class="form-group col-lg-12 col-md-12 col-sm-12">
-									<button type="submit" class="theme-btn btn-style-one"><span class="btn-title">Submit Now</span></button>
 								</div>
 							</div>
-						</form>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp2.jpg" alt="fp2.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Villa</p>
+										<h4>Gorgeous Villa Bay View</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp3.jpg" alt="fp3.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Sale</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Single Family Home</p>
+										<h4>Luxury Family Home</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp1.jpg" alt="fp1.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Apartment</p>
+										<h4>Luxury Family Home</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp1.jpg" alt="fp1.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item"><a href="#">Featured</a></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Apartment</p>
+										<h4>Renovated Apartment</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp2.jpg" alt="fp2.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Villa</p>
+										<h4>Gorgeous Villa Bay View</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp3.jpg" alt="fp3.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Sale</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Single Family Home</p>
+										<h4>Luxury Family Home</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp1.jpg" alt="fp1.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Apartment</p>
+										<h4>Luxury Family Home</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp1.jpg" alt="fp1.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item"><a href="#">Featured</a></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Apartment</p>
+										<h4>Renovated Apartment</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp2.jpg" alt="fp2.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Villa</p>
+										<h4>Gorgeous Villa Bay View</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp3.jpg" alt="fp3.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Sale</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Single Family Home</p>
+										<h4>Luxury Family Home</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="feat_property home3">
+								<div class="thumb">
+									<img class="img-whp" src="images/property/fp1.jpg" alt="fp1.jpg">
+									<div class="thmb_cntnt">
+										<ul class="tag mb0">
+											<li class="list-inline-item"><a href="#">For Rent</a></li>
+											<li class="list-inline-item dn"></li>
+										</ul>
+										<ul class="icon mb0">
+											<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+											<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+										</ul>
+										<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+									</div>
+								</div>
+								<div class="details">
+									<div class="tc_content">
+										<p class="text-thm">Apartment</p>
+										<h4>Luxury Family Home</h4>
+										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<ul class="prop_details mb0">
+											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+											<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</section>
+	</section>
+
+	<!-- Property Cities -->
+	<section id="property-city" class="property-city pt0 pb30">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="main-title">
+						<h2>Find Properties in These Cities</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a class="float-right" href="#">View All <span class="flaticon-next"></span></a></p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl">
+					<div class="properti_city">
+						<div class="thumb"><img class="img-fluid w100" src="images/property/pc7.jpg" alt="pc7.jpg"></div>
+						<div class="overlay">
+							<div class="details">
+								<h4>Miami</h4>
+								<p>24 Properties</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl">
+					<div class="properti_city">
+						<div class="thumb"><img class="img-fluid w100" src="images/property/pc8.jpg" alt="pc8.jpg"></div>
+						<div class="overlay">
+							<div class="details">
+								<h4>Los Angeles</h4>
+								<p>18 Properties</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl">
+					<div class="properti_city">
+						<div class="thumb"><img class="img-fluid w100" src="images/property/pc9.jpg" alt="pc9.jpg"></div>
+						<div class="overlay">
+							<div class="details">
+								<h4>New York</h4>
+								<p>89 Properties</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl">
+					<div class="properti_city">
+						<div class="thumb"><img class="img-fluid w100" src="images/property/pc10.jpg" alt="pc10.jpg"></div>
+						<div class="overlay">
+							<div class="details">
+								<h4>Florida</h4>
+								<p>47 Properties</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl">
+					<div class="properti_city">
+						<div class="thumb"><img class="img-fluid w100" src="images/property/pc11.jpg" alt="pc11.jpg"></div>
+						<div class="overlay">
+							<div class="details">
+								<h4>Orlando</h4>
+								<p>89 Properties</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Property Search -->
+	<section id="property-search" class="property-search bg-img4">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 offset-lg-3">
+					<div class="search_smart_property text-center">
+						<h2>Search Smarter, From Anywhere</h2>
+						<p>Power your search with our Resideo real estate platform, for timely listings and a seamless experience.</p>
+						<button class="btn ssp_btn">Search Now</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Property Cities -->
+	<section id="best-property" class="best-property pt100 pb0">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="main-title">
+						<h2>Best Property Value</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a class="float-right" href="#">View All <span class="flaticon-next"></span></a></p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6 col-lg-4">
+					<div class="feat_property home3">
+						<div class="thumb">
+							<img class="img-whp" src="images/property/fp4.jpg" alt="fp4.jpg">
+							<div class="thmb_cntnt">
+								<ul class="tag mb0">
+									<li class="list-inline-item"><a href="#">For Rent</a></li>
+									<li class="list-inline-item dn"></li>
+								</ul>
+								<ul class="icon mb0">
+									<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+									<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+								</ul>
+								<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+							</div>
+						</div>
+						<div class="details">
+							<div class="tc_content">
+								<p class="text-thm">Villa</p>
+								<h4>Gorgeous Villa Bay View</h4>
+								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<ul class="prop_details mb0">
+									<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+									<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+									<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-lg-4">
+					<div class="feat_property home3">
+						<div class="thumb">
+							<img class="img-whp" src="images/property/fp5.jpg" alt="fp5.jpg">
+							<div class="thmb_cntnt">
+								<ul class="tag mb0">
+									<li class="list-inline-item"><a href="#">For Rent</a></li>
+									<li class="list-inline-item"><a href="#">Featured</a></li>
+								</ul>
+								<ul class="icon mb0">
+									<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+									<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+								</ul>
+								<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+							</div>
+						</div>
+						<div class="details">
+							<div class="tc_content">
+								<p class="text-thm">Villa</p>
+								<h4>Gorgeous Villa Bay View</h4>
+								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<ul class="prop_details mb0">
+									<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+									<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+									<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-lg-4">
+					<div class="feat_property home3">
+						<div class="thumb">
+							<img class="img-whp" src="images/property/fp6.jpg" alt="fp6.jpg">
+							<div class="thmb_cntnt">
+								<ul class="tag mb0">
+									<li class="list-inline-item"><a href="#">For Rent</a></li>
+									<li class="list-inline-item dn"></li>
+								</ul>
+								<ul class="icon mb0">
+									<li class="list-inline-item"><a href="#"><span class="flaticon-transfer-1"></span></a></li>
+									<li class="list-inline-item"><a href="#"><span class="flaticon-heart"></span></a></li>
+								</ul>
+								<a class="fp_price" href="#">$13,000<small>/mo</small></a>
+							</div>
+						</div>
+						<div class="details">
+							<div class="tc_content">
+								<p class="text-thm">Villa</p>
+								<h4>Luxury Family Home</h4>
+								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<ul class="prop_details mb0">
+									<li class="list-inline-item"><a href="#">Beds: 4</a></li>
+									<li class="list-inline-item"><a href="#">Baths: 2</a></li>
+									<li class="list-inline-item"><a href="#">Sq Ft: 5280</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Our Agents -->
+	<section id="our-agents" class="our-agents pt40 pb30">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="main-title">
+						<h2>Our Agents</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a class="float-right" href="#">View All <span class="flaticon-next"></span></a></p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl-2">
+					<div class="our_agent">
+						<div class="thumb">
+							<img class="img-fluid w100" src="images/team/5.jpg" alt="5.jpg">
+							<div class="overylay">
+								<ul class="social_icon">
+									<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-google"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="details">
+							<h4>Jennifer Barton</h4>
+							<p>Broker <a class="float-right" href="#">4.5 <i class="fa fa-star color-golden"></i></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl-2">
+					<div class="our_agent">
+						<div class="thumb">
+							<img class="img-fluid w100" src="images/team/6.jpg" alt="6.jpg">
+							<div class="overylay">
+								<ul class="social_icon">
+									<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-google"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="details">
+							<h4>Kathleen Myers</h4>
+							<p>Agent <a class="float-right" href="#">5 <i class="fa fa-star color-golden"></i></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl-2">
+					<div class="our_agent">
+						<div class="thumb">
+							<img class="img-fluid w100" src="images/team/7.jpg" alt="7.jpg">
+							<div class="overylay">
+								<ul class="social_icon">
+									<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-google"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="details">
+							<h4>Mariusz Ciesla</h4>
+							<p>Broker <a class="float-right" href="#">3.5 <i class="fa fa-star color-golden"></i></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl-2">
+					<div class="our_agent">
+						<div class="thumb">
+							<img class="img-fluid w100" src="images/team/8.jpg" alt="8.jpg">
+							<div class="overylay">
+								<ul class="social_icon">
+									<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-google"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="details">
+							<h4>Helene Powers</h4>
+							<p>Broker <a class="float-right" href="#">4.5 <i class="fa fa-star color-golden"></i></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl-2">
+					<div class="our_agent">
+						<div class="thumb">
+							<img class="img-fluid w100" src="images/team/9.jpg" alt="9.jpg">
+							<div class="overylay">
+								<ul class="social_icon">
+									<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-google"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="details">
+							<h4>Jade Northon</h4>
+							<p>Agent <a class="float-right" href="#">1.5 <i class="fa fa-star color-golden"></i></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4 col-xl-2">
+					<div class="our_agent">
+						<div class="thumb">
+							<img class="img-fluid w100" src="images/team/10.jpg" alt="10.jpg">
+							<div class="overylay">
+								<ul class="social_icon">
+									<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fa fa-google"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="details">
+							<h4>Kevin Harris</h4>
+							<p>Agent <a class="float-right" href="#">3.5 <i class="fa fa-star color-golden"></i></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+    
 @endsection

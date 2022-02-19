@@ -1,12 +1,12 @@
-<meta charset="utf-8">
-<!-- Stylesheets -->
+<!-- <meta charset="utf-8">
+
 <link href="{{asset('css/bootstrap.css')}}" rel="stylesheet">
 <link href="{{asset('css/style.css')}}" rel="stylesheet">
-<!-- Responsive File -->
+
 <link href="{{asset('css/responsive.css')}}" rel="stylesheet">
 <link rel="shortcut icon" href="{{asset('images/favicon.png')}}" type="image/x-icon">
 <link rel="icon" href="{{asset('images/favicon.png')}}" type="image/x-icon">
-<!-- Responsive Settings -->
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <style>
@@ -22,4 +22,21 @@
     /*ul, li {*/
     /*    list-style: circle;*/
     /*}*/
-</style>
+</style> -->
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="CreativeLayers" content="ATFN">
+
+<!-- css file -->
+<link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
+<link rel="stylesheet" href="{{asset('css/style.css')}}">
+<!-- Responsive stylesheet -->
+<link rel="stylesheet" href="{{asset('css/responsive.css')}}">
+<!-- Title -->
+<title>Sakshi Properties</title>
+<!-- Favicon -->
+<link href="{{asset('images/favicon.ico')}}" sizes="128x128" rel="shortcut icon" type="image/x-icon" />
+<link href="{{asset('images/favicon.ico')}}" sizes="128x128" rel="shortcut icon" />
