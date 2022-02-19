@@ -2,7 +2,7 @@
 @extends('layouts.app')
 
 @section('header')
-<title>{{$recipe[0]->title}} - {{env('APP_NAME')}}</title>
+<title>Homepage - {{env('APP_NAME')}}</title>
 
 @endsection
 
