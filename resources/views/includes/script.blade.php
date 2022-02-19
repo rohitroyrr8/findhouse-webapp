@@ -1,7 +1,4 @@
-	
-    <!-- Wrapper End -->
-    <!-- <script data-cfasync="false" src="https://grandetest.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="js/jquery-3.3.1.js"></script> -->
-    <script type="text/javascript" src="{{asset('js/jquery-migrate-3.0.0.min.js')}}"></script>
+	<script type="text/javascript" src="{{asset('js/jquery-migrate-3.0.0.min.js')}}"></script>
     <script type="text/javascript" src="{{asset('js/popper.min.js')}}"></script>
     <script type="text/javascript" src="{{asset('js/bootstrap.min.js')}}"></script>
     <script type="text/javascript" src="{{asset('js/jquery.mmenu.all.js')}}"></script>

@@ -1,4 +1,4 @@
-<footer class="main-footer-two">
+<!-- <footer class="main-footer-two">
     <div class="widgets-section" style="    padding: 20px 0px 22px;">
         <div class="auto-container">
             <div class="row clearfix">
@@ -94,7 +94,7 @@
         </div>
     </div>
 </footer>
-
+ -->
 
 	<!-- Our Footer -->
 	<section class="footer_one home3">
