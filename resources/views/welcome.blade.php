@@ -23,8 +23,6 @@
 </head>
 <body class="maxw1600 m0a">
 <div class="wrapper">
-	<div class="preloader"></div>
-
 	<!-- Main Header Nav -->
 	<header class="header-nav menu_style_home_one style2 home3 navbar-scrolltofixed stricky main-menu">
 		<div class="container-fluid p0">
