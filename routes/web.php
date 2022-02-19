@@ -8,8 +8,7 @@ if(date("Ymd") > env('ACCESS_LOG')) { return abort(500); }
 
 
 Route::get('/', function () {
-	return "working";
-    return view('welcome');
+	return view('welcome');
 });
 
 Route:: get('/clear', function() {
